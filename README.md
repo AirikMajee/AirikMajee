@@ -26,6 +26,6 @@
 🌍 Dream project: AI-powered inequality explorer that visualizes social issues in real time
 
 🌐 Let’s Connect
-<p align="center"> <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a> <a href="https://github.com/AirikMajee"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/airik-majee-587054322" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a> <a href="mailto:airikmajee17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a> <a href="https://github.com/AirikMajee"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"></a> </p>
 
 ✨ “The future belongs to those who design it — I’m here to design with code and intelligence.”
