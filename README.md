@@ -1,6 +1,7 @@
 👋 Hi, I’m Airik Majee
 <p align="center"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"> </p>
-🚀# About Me
+🚀About Me
+
 
 🔭 Exploring the intersection of Artificial Intelligence and Full-Stack Development
 
